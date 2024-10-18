@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/DDS.SV" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DDS
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/RAM_single.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RAM_single
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/DDS_TB.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DDS_TB

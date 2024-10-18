@@ -1,0 +1,22 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: F:/vivado/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto e76e2ea2266141cf8ff5b73e7c2bd2a8 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot DDS_TB_behav xil_defaultlib.DDS_TB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/DDS.SV" Line 1. Module DDS doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/RAM_single.sv" Line 1. Module RAM_single doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/DDS.SV" Line 1. Module DDS(WAVE="SIN") doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/RAM_single.sv" Line 1. Module RAM_single doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/DDS.SV" Line 1. Module DDS(WAVE="SQU") doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/RAM_single.sv" Line 1. Module RAM_single doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.RAM_single
+Compiling module xil_defaultlib.DDS
+Compiling module xil_defaultlib.DDS(WAVE="SIN")
+Compiling module xil_defaultlib.DDS(WAVE="SQU")
+Compiling module xil_defaultlib.DDS_TB
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot DDS_TB_behav

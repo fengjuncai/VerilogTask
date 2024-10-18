@@ -1,0 +1,17 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/rtl/RAM_dual.sv,1729216215,systemVerilog,,F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/tb/RAM_dual_tb.sv,,RAM_dual,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/rtl/RAM_simple_dual.sv,1729219411,systemVerilog,,F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/tb/RAM_simple_dual_tb.sv,,RAM_simple_dual,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/rtl/RAM_single.sv,1729165136,systemVerilog,,F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/tb/RAM_single_tb.sv,,RAM_single,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/tb/IP_tb/dual_port_tb.sv,1729153172,systemVerilog,,,,dual_port_tb,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/tb/IP_tb/simple_dual_port_tb.sv,1729151731,systemVerilog,,,,simple_dual_pora_tb,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/tb/IP_tb/singel_port_tb.sv,1729132491,systemVerilog,,,,singel_port_ram_tb,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/tb/RAM_dual_tb.sv,1729218314,systemVerilog,,,,RAM_dual_tb,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/tb/RAM_simple_dual_tb.sv,1729219919,systemVerilog,,,,tb_RAM_simple_dual,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/tb/RAM_single_tb.sv,1729165222,systemVerilog,,,,RAM_single_tb,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/project_2/project_2.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1729132804,verilog,,,,blk_mem_gen_0,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/project_2/project_2.srcs/sources_1/ip/blk_mem_gen_1/sim/blk_mem_gen_1.v,1729136145,verilog,,,,blk_mem_gen_1,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/project_2/project_2.srcs/sources_1/ip/blk_mem_gen_2/sim/blk_mem_gen_2.v,1729153251,verilog,,,,blk_mem_gen_2,,,,,,,,

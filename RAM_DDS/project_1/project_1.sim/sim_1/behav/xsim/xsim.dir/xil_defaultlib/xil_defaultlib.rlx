@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/DDS.SV,1729238998,systemVerilog,,F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/RAM_single.sv,,DDS,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/DDS_TB.sv,1729239510,systemVerilog,,,,DDS_TB,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/RAM_single.sv,1729238751,systemVerilog,,F:/VIVADO_PROJICT/RAM_DDS/RAM_DDS/DDS/DDS_TB.sv,,RAM_single,,,,,,,,
+F:/VIVADO_PROJICT/RAM_DDS/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,

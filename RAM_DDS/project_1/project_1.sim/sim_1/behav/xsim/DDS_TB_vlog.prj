@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../RAM_DDS/DDS/DDS.SV" \
+"../../../../../RAM_DDS/DDS/RAM_single.sv" \
+"../../../../../RAM_DDS/DDS/DDS_TB.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
