@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "F:/VIVADO_PROJICT/FIFO_A/01_rtl/fifo_A.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo_a
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "F:/VIVADO_PROJICT/FIFO_A/02_sim/FIFO_A_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO_A_tb
